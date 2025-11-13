@@ -1,0 +1,13 @@
+pytelegrambotapi
+
+requests
+
+sqlalchemy
+
+apscheduler
+
+beautifulsoup4
+
+colorama
+
+tzdata
